@@ -112,6 +112,3 @@ All performance metrics and plots are displayed as output during execution.
 ![Decision Tree Confusion Matrix](Images/dt_confusion_matrix.png)
 ```
 
----
-
-**Note**: Adjust paths if you're running the script locally or on a different platform than Google Colab. Ensure required images are saved and uploaded in your repository to make visualizations display correctly.
