@@ -1,5 +1,5 @@
 # Smoke Detection Analysis
-Images/dataset-cover.jpg
+![Dataset Cover](Images/dataset-cover.jpg)
 ## Overview
 
 This repository contains the code for building and evaluating a machine learning model to detect smoke based on sensor data. The project follows a standard machine learning workflow, including data loading, exploration, preprocessing, model training, and evaluation.
@@ -97,25 +97,18 @@ All performance metrics and plots are displayed as output during execution.
 
 ### 1. Correlation Matrix
 
-```markdown
 ![Correlation Matrix](Images/correlation_matrix.png)
-```
 
 ### 2. 'Fire Alarm' Class Distribution
 
-```markdown
 ![Fire Alarm Class Distribution](Images/class_distribution.png)
-```
 
 ### 3. SVM Confusion Matrix
 
-```markdown
 ![SVM Confusion Matrix](Images/svm_confusion_matrix.png)
-```
 
 ### 4. Decision Tree Confusion Matrix
 
-```markdown
 ![Decision Tree Confusion Matrix](Images/dt_confusion_matrix.png)
 ```
 
